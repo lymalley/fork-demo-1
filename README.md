@@ -5,4 +5,4 @@ this is changed by Max Boettcher
 
 here's another change 
 
-this is changed by Tim
+this is changed by Tim Wertz
